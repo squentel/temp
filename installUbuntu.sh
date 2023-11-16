@@ -2,7 +2,7 @@
 export SENSOR_HASH= && \
 export FALCON_CLIENT_ID= && \
 export FALCON_CLIENT_SECRET= && \
-export FALCON_CID=-EA && \
+export FALCON_CID= && \
 export FALCON_CLOUD_REGION=eu-1 && \
 export FALCON_CLOUD_API=api.eu-1.crowdstrike.com
 
